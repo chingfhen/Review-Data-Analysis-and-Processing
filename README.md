@@ -2,7 +2,7 @@
 
 This repository implements various Natural Language Processing Tools namely, Text Preprocessing [1], Grammar Checking [2], Adjective Phrase Extraction [3] and Negation Detection [4] 
 
-[1] 
+Text Preprocessing:
 
 https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/Part1%20-%20%20Dataset%20Analysis%20-%20Tokenization%20and%20Stemming.ipynb
 
@@ -10,15 +10,15 @@ https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/Part1
 
 https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/Part1_Dataset_Analysis__Noun_Adj__Pair.ipynb
 
-[2] 
+Grammar Checking:
 
 https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/Grammar_checker_bert.ipynb
 
-[3] 
+Adjective Phrase Extraction:
 
 https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/Part3%20-%20Most%20indicative%20adjective%20phrases.ipynb
 
-[4] 
+Negation Detection:
 
 https://github.com/chingfhen/Review-Data-Analysis-and-Processing/blob/main/NegationDetector.py
 
